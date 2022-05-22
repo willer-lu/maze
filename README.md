@@ -1,2 +1,3 @@
 # maze
-Using the features of the stack to complete a simple maze
+数据结构实验  
+利用栈的特性实现迷宫  
